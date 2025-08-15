@@ -1,0 +1,5 @@
+db:
+  host: "localhost"
+  user: "root"
+  password: ""  # Если у MySQL есть пароль, укажи его здесь
+  name: "arbitrage"  # Название базы данных
